@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="suit1" parallel="false">
+    <test name="module1">
+        <classes>
+            <class name="seleniumTest.className"/>
+        </classes>
+    </test>
+
+
+    <test name="HomePageTest">
+        <classes>
+            <class name="HomePageTest"></class>
+        </classes>
+
+    </test>
+
+    <test name="AboutPageTest">
+        <classes>
+            <class name="AboutPageTest"></class>
+        </classes>
+    </test>
+
+    <test name="CoursesPageTest">
+        <classes>
+            <class name="CoursesPageTest"></class>
+        </classes>
+    </test>
+
+    <test name="GalleryPageTest">
+        <classes>
+            <class name="GalleryPageTest"></class>
+        </classes>
+    </test>
+
+    <test name="ContactPageTest">
+        <classes>
+            <class name="ContactPageTest"></class>
+        </classes>
+    </test>
+
+    <test name="LoginPageTest">
+        <classes>
+            <class name="LoginPageTest"></class>
+        </classes>
+    </test>
+
+
+</suite>
